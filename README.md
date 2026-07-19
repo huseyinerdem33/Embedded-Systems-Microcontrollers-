@@ -51,19 +51,31 @@ The go-to ecosystem for Internet of Things (IoT) applications. These boards brin
 An industry-grade platform based on the powerful **ARM Cortex-M** architecture. STM32 boards are heavily used in automotive, medical, and industrial automation due to their safety-critical design and extreme clock speeds.
 *   **STM32 Blue Pill (F103C8T6):** The most popular budget ARM board, offering 72MHz speeds, Direct Memory Access (DMA), and true hardware USB support.
 *   **STM32 Nucleo Series:** Official development boards from ST, featuring onboard ST-LINK debuggers, Arduino shield compatibility, and advanced power management.
-
- *[<img width="250" height="540" alt="R1939784-01" src="https://github.com/user-attachments/assets/9e81390d-489d-4758-94ef-977275304907" />]*
-
----
+<p align="center">
+  *[<img width="250" height="540" alt="R1939784-01" src="https://github.com/user-attachments/assets/9e81390d-489d-4758-94ef-977275304907" />]*
+</p>
 
 ### 💻 Raspberry Pi Series
 Unlike the previous microcontrollers, Raspberry Pi boards are true **Single Board Computers (SBC)** that run full Linux-based operating systems. They are designed for heavy computational tasks, Edge AI processing, and high-level network gateway scripting.
 *   **Raspberry Pi 4 / 5:** Full desktop-class computers with quad-core processors, dual 4K display outputs, Gigabit Ethernet, and up to 8GB/16GB of RAM.
 *   **Raspberry Pi Zero W / 2 W:** Ultra-small, low-power Linux boards with built-in Wi-Fi, perfect for embedded camera servers and minimal background scripts.
 
-📸 *[Drop your Raspberry Pi family hardware image here]*
-
----
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <!-- 1. Fotoğraf: Raspberry Pi 5 -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/97216ae0-49be-48de-824c-455fa1530fde" width="250" alt="Raspberry Pi 5">
+    </td>
+    <!-- 2. Fotoğraf: Görsel 2 -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/a8d02369-60ab-4573-98a7-8f2c30502ed1" width="250" alt="Görsel 2">
+    </td>
+    <!-- 3. Fotoğraf: Görsel 3 -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/ecf51cd9-e73c-44bc-a295-f789db20de3d" width="250" alt="Görsel 3">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Software Setup & Environment Configuration
 
