@@ -15,16 +15,19 @@ Arduino remains the global standard for rapid prototyping and core electronics d
 *   **Arduino Nano:** A breadboard-friendly, miniaturized version of the Uno with identical processing power but a much smaller footprint.
 *   **Arduino Mega 2560:** Designed for complex projects, offering expanded memory and a massive array of 54 digital I/O pins and 4 UART ports.
 
-<p align="center">
-  <!-- 1. Arduino Uno -->
-  <img src="https://github.com/user-attachments/assets/d37c0b82-4895-4991-84cf-72309e64826c" width="30%" alt="Arduino Uno">
-  
-  <!-- 2. Arduino Nano -->
-  <img src="https://github.com/user-attachments/assets/ea662528-2604-4175-9ef3-ed51a1c98719" width="22%" alt="Arduino Nano">
-  
-  <!-- 3. Arduino Mega -->
-  <img src="https://github.com/user-attachments/assets/e0229ce7-b614-490d-9151-25d190e9d75a" width="42%" alt="Arduino Mega">
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/d37c0b82-4895-4991-84cf-72309e64826c" width="220" alt="Arduino Uno">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/ea662528-2604-4175-9ef3-ed51a1c98719" width="160" alt="Arduino Nano">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/e0229ce7-b614-490d-9151-25d190e9d75a" width="310" alt="Arduino Mega">
+    </td>
+  </tr>
+</table>
 
 ### 🛡️ ESP32 & ESP8266 (Espressif Systems)
 The go-to ecosystem for Internet of Things (IoT) applications. These boards bring massive processing power, dual-core architectures, and native wireless stacks at an incredibly low cost.
