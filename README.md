@@ -36,13 +36,13 @@ The go-to ecosystem for Internet of Things (IoT) applications. These boards brin
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr valign="middle">
-    <!-- 1. Fotoğraf -->
+    <!-- 1. Fotoğraf: ESP32 -->
     <td align="center" style="padding: 15px;">
-      <img src=""C:\Users\husey\OneDrive\Pictures\Screenshots\ESP32-DevKitC-S_NEW_t.webp"" width="280" alt="Görsel 1">
+      <img src="https://github.com/user-attachments/assets/c34fdf7a-55c9-40b3-9c39-688ed912c0fc" width="280" alt="ESP32 DevKitC">
     </td>
-    <!-- 2. Fotoğraf -->
+    <!-- 2. Fotoğraf: ESP8266 NodeMCU -->
     <td align="center" style="padding: 15px;">
-      <img src=""C:\Users\husey\OneDrive\Pictures\Screenshots\esp8266-nodemcu-lua-wifi-gelistirme-ka-5592-4.webp"" width="280" alt="Görsel 2">
+      <img src="https://github.com/user-attachments/assets/f129e1be-868f-42af-8a48-6b94a2adf760" width="280" alt="ESP8266 NodeMCU">
     </td>
   </tr>
 </table>
