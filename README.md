@@ -52,7 +52,7 @@ An industry-grade platform based on the powerful **ARM Cortex-M** architecture. 
 *   **STM32 Blue Pill (F103C8T6):** The most popular budget ARM board, offering 72MHz speeds, Direct Memory Access (DMA), and true hardware USB support.
 *   **STM32 Nucleo Series:** Official development boards from ST, featuring onboard ST-LINK debuggers, Arduino shield compatibility, and advanced power management.
 
-📸 *[Drop your STM32 family hardware image here]*
+ *[<img width="700" height="981" alt="R1939784-01" src="https://github.com/user-attachments/assets/9e81390d-489d-4758-94ef-977275304907" />]*
 
 ---
 
