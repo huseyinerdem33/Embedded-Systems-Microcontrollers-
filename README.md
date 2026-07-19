@@ -108,9 +108,11 @@ To program the Arduino, ESP32, and STM32 boards within this repository, we use t
 
 ### 1. Download the Installer
 Go to the official [Arduino Software Center](https://www.arduino.cc/en/software) and download the latest version of Arduino IDE for your operating system (Windows, macOS, or Linux).
-<br>
-📂 *[Drop / Paste Step 1 Download Page Screenshot Here]*
-<br><br>
+<p align="center">
+  <br>
+  <img width="900" height="500" alt="arduino" src="https://github.com/user-attachments/assets/31023d7d-9562-4159-90af-4c03efc515c1" />
+  <br>
+</p>
 
 ### 2. Run the Setup Wizard
 Launch the downloaded installer. Accept the license agreement, leave the default components checked (especially the USB driver options), and select your installation directory.
