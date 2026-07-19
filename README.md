@@ -34,9 +34,18 @@ The go-to ecosystem for Internet of Things (IoT) applications. These boards brin
 *   **ESP8266 (NodeMCU):** The pioneer of low-cost Wi-Fi connectivity. Ideal for simple smart-home nodes and wireless data logging.
 *   **ESP32 (WROOM / WROVER):** A powerhouse featuring a dual-core 32-bit processor, native Wi-Fi, Bluetooth Low Energy (BLE), and hardware encryption engines for secure cloud telemetry (MQTT, HTTPS).
 
-📸 *[Drop your ESP family hardware image here]*
-
----
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <!-- 1. Fotoğraf -->
+    <td align="center" style="padding: 15px;">
+      <img src=""C:\Users\husey\OneDrive\Pictures\Screenshots\ESP32-DevKitC-S_NEW_t.webp"" width="280" alt="Görsel 1">
+    </td>
+    <!-- 2. Fotoğraf -->
+    <td align="center" style="padding: 15px;">
+      <img src=""C:\Users\husey\OneDrive\Pictures\Screenshots\esp8266-nodemcu-lua-wifi-gelistirme-ka-5592-4.webp"" width="280" alt="Görsel 2">
+    </td>
+  </tr>
+</table>
 
 ### 🔄 STM32 (STMicroelectronics)
 An industry-grade platform based on the powerful **ARM Cortex-M** architecture. STM32 boards are heavily used in automotive, medical, and industrial automation due to their safety-critical design and extreme clock speeds.
