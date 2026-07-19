@@ -16,6 +16,7 @@ Arduino remains the global standard for rapid prototyping and core electronics d
 *   **Arduino Mega 2560:** Designed for complex projects, offering expanded memory and a massive array of 54 digital I/O pins and 4 UART ports.
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
+  <!-- ÜST SATIR: Fotoğraflar -->
   <tr valign="middle">
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/d37c0b82-4895-4991-84cf-72309e64826c" width="220" alt="Arduino Uno">
@@ -27,14 +28,21 @@ Arduino remains the global standard for rapid prototyping and core electronics d
       <img src="https://github.com/user-attachments/assets/e0229ce7-b614-490d-9151-25d190e9d75a" width="310" alt="Arduino Mega">
     </td>
   </tr>
+  
+  <!-- ALT SATIR: İsimler -->
+  <tr>
+    <td align="center" style="padding: 5px;"><b>Arduino Uno</b></td>
+    <td align="center" style="padding: 5px;"><b>Arduino Nano</b></td>
+    <td align="center" style="padding: 5px;"><b>Arduino Mega 2560</b></td>
+  </tr>
 </table>
-
 ### 🛡️ ESP32 & ESP8266 (Espressif Systems)
 The go-to ecosystem for Internet of Things (IoT) applications. These boards bring massive processing power, dual-core architectures, and native wireless stacks at an incredibly low cost.
 *   **ESP8266 (NodeMCU):** The pioneer of low-cost Wi-Fi connectivity. Ideal for simple smart-home nodes and wireless data logging.
 *   **ESP32 (WROOM / WROVER):** A powerhouse featuring a dual-core 32-bit processor, native Wi-Fi, Bluetooth Low Energy (BLE), and hardware encryption engines for secure cloud telemetry (MQTT, HTTPS).
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
+  <!-- ÜST SATIR: Fotoğraflar -->
   <tr valign="middle">
     <!-- 1. Fotoğraf: ESP32 -->
     <td align="center" style="padding: 15px;">
@@ -45,6 +53,12 @@ The go-to ecosystem for Internet of Things (IoT) applications. These boards brin
       <img src="https://github.com/user-attachments/assets/f129e1be-868f-42af-8a48-6b94a2adf760" width="280" alt="ESP8266 NodeMCU">
     </td>
   </tr>
+  
+  <!-- ALT SATIR: İsimler -->
+  <tr>
+    <td align="center" style="padding: 5px;"><b>ESP32 DevKitC</b></td>
+    <td align="center" style="padding: 5px;"><b>ESP8266 NodeMCU</b></td>
+  </tr>
 </table>
 
 ### 🔄 STM32 (STMicroelectronics)
@@ -52,7 +66,9 @@ An industry-grade platform based on the powerful **ARM Cortex-M** architecture. 
 *   **STM32 Blue Pill (F103C8T6):** The most popular budget ARM board, offering 72MHz speeds, Direct Memory Access (DMA), and true hardware USB support.
 *   **STM32 Nucleo Series:** Official development boards from ST, featuring onboard ST-LINK debuggers, Arduino shield compatibility, and advanced power management.
 <p align="center">
-  *[<img width="250" height="540" alt="R1939784-01" src="https://github.com/user-attachments/assets/9e81390d-489d-4758-94ef-977275304907" />]*
+  <img width="250" height="540" alt="R1939784-01" src="https://github.com/user-attachments/assets/9e81390d-489d-4758-94ef-977275304907" />
+  <br>
+  <b>STM32</b>
 </p>
 
 ### 💻 Raspberry Pi Series
@@ -61,19 +77,24 @@ Unlike the previous microcontrollers, Raspberry Pi boards are true **Single Boar
 *   **Raspberry Pi Zero W / 2 W:** Ultra-small, low-power Linux boards with built-in Wi-Fi, perfect for embedded camera servers and minimal background scripts.
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
+  <!-- ÜST SATIR: Fotoğraflar -->
   <tr valign="middle">
-    <!-- 1. Fotoğraf: Raspberry Pi 5 -->
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/97216ae0-49be-48de-824c-455fa1530fde" width="250" alt="Raspberry Pi 5">
     </td>
-    <!-- 2. Fotoğraf: Görsel 2 -->
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/a8d02369-60ab-4573-98a7-8f2c30502ed1" width="250" alt="Görsel 2">
     </td>
-    <!-- 3. Fotoğraf: Görsel 3 -->
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/ecf51cd9-e73c-44bc-a295-f789db20de3d" width="250" alt="Görsel 3">
     </td>
+  </tr>
+  
+  <!-- ALT SATIR: İsimler -->
+  <tr>
+    <td align="center" style="padding: 5px;"><b>Raspberry Pi 5</b></td>
+    <td align="center" style="padding: 5px;"><b>Raspberry Pi 4</b></td>
+    <td align="center" style="padding: 5px;"><b>Raspberry Pi Zero 2 W</b></td>
   </tr>
 </table>
 
