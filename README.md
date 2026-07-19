@@ -16,17 +16,15 @@ Arduino remains the global standard for rapid prototyping and core electronics d
 *   **Arduino Mega 2560:** Designed for complex projects, offering expanded memory and a massive array of 54 digital I/O pins and 4 UART ports.
 
 <p align="center">
-  <!-- 1. Arduino Uno Fotoğraf Linki -->
-  <img src="<img width="554" height="554" alt="arduino uno" src="https://github.com/user-attachments/assets/d37c0b82-4895-4991-84cf-72309e64826c" /> width="30%" alt="Arduino Uno">
+  <!-- 1. Arduino Uno -->
+  <img src="https://github.com/user-attachments/assets/d37c0b82-4895-4991-84cf-72309e64826c" width="30%" alt="Arduino Uno">
   
-  <!-- 2. Arduino Nano Fotoğraf Linki -->
-  <img src="<img width="554" height="554" alt="arduino nano" src="https://github.com/user-attachments/assets/ea662528-2604-4175-9ef3-ed51a1c98719" />" width="22%" alt="Arduino Nano">
+  <!-- 2. Arduino Nano -->
+  <img src="https://github.com/user-attachments/assets/ea662528-2604-4175-9ef3-ed51a1c98719" width="22%" alt="Arduino Nano">
   
-  <!-- 3. Arduino Mega Fotoğraf Linki -->
-  <img src="<img width="1000" height="1000" alt="arduino mega" src="https://github.com/user-attachments/assets/e0229ce7-b614-490d-9151-25d190e9d75a" />" width="42%" alt="Arduino Mega">
+  <!-- 3. Arduino Mega -->
+  <img src="https://github.com/user-attachments/assets/e0229ce7-b614-490d-9151-25d190e9d75a" width="42%" alt="Arduino Mega">
 </p>
-
----
 
 ### 🛡️ ESP32 & ESP8266 (Espressif Systems)
 The go-to ecosystem for Internet of Things (IoT) applications. These boards bring massive processing power, dual-core architectures, and native wireless stacks at an incredibly low cost.
