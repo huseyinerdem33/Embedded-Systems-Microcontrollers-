@@ -116,9 +116,11 @@ Go to the official [Arduino Software Center](https://www.arduino.cc/en/software)
 
 ### 2. Run the Setup Wizard
 Launch the downloaded installer. Accept the license agreement, leave the default components checked (especially the USB driver options), and select your installation directory.
-<br>
-📂 *[Drop / Paste Step 2 Installation Wizard Screenshot Here]*
-<br><br>
+<p align="center">
+  <br>
+  <img width="900" height="500" alt="arduino" src="https://github.com/user-attachments/assets/bed1f4ed-c0c6-4b69-a353-d888d4a2bd79" />
+  <br>
+</p>
 
 ### 3. Installing Third-Party Boards (ESP32 & STM32)
 By default, the IDE only supports Arduino boards. To add ESP and STM boards:
@@ -127,8 +129,11 @@ By default, the IDE only supports Arduino boards. To add ESP and STM boards:
    * **ESP32:** `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
    * **STM32:** `https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json`
 3. Go to `Tools` > `Board` > `Boards Manager...`, search for **ESP32** or **STM32**, and click **Install**.
-<br>
-📂 *[Drop / Paste Step 3 Preferences & Boards Manager Screenshot Here]*
+<p align="center">
+  <br>
+  <img width="797" height="531" alt="image" src="https://github.com/user-attachments/assets/55ee733c-9531-4b07-b0fc-e68182c58bce" />
+  <br>
+</p>
 
 </details>
 
