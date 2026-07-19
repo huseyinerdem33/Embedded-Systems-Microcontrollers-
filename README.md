@@ -15,7 +15,16 @@ Arduino remains the global standard for rapid prototyping and core electronics d
 *   **Arduino Nano:** A breadboard-friendly, miniaturized version of the Uno with identical processing power but a much smaller footprint.
 *   **Arduino Mega 2560:** Designed for complex projects, offering expanded memory and a massive array of 54 digital I/O pins and 4 UART ports.
 
-📸 *[Drop your Arduino family hardware image here]*
+<p align="center">
+  <!-- 1. Arduino Uno Fotoğraf Linki -->
+  <img src="<img width="554" height="554" alt="arduino uno" src="https://github.com/user-attachments/assets/ad4ac51e-7e2c-4d5f-bd7a-8ff1c977a609" />" width="30%" alt="Arduino Uno">
+  
+  <!-- 2. Arduino Nano Fotoğraf Linki -->
+  <img src="<img width="554" height="554" alt="arduino nano" src="https://github.com/user-attachments/assets/ea662528-2604-4175-9ef3-ed51a1c98719" />" width="22%" alt="Arduino Nano">
+  
+  <!-- 3. Arduino Mega Fotoğraf Linki -->
+  <img src="<img width="1000" height="1000" alt="arduino mega" src="https://github.com/user-attachments/assets/e0229ce7-b614-490d-9151-25d190e9d75a" />" width="42%" alt="Arduino Mega">
+</p>
 
 ---
 
