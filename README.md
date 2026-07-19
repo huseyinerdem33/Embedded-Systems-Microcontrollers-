@@ -17,7 +17,7 @@ Arduino remains the global standard for rapid prototyping and core electronics d
 
 <p align="center">
   <!-- 1. Arduino Uno Fotoğraf Linki -->
-  <img src="<img width="554" height="554" alt="arduino uno" src="https://github.com/user-attachments/assets/ad4ac51e-7e2c-4d5f-bd7a-8ff1c977a609" />" width="30%" alt="Arduino Uno">
+  <img src="<img width="554" height="554" alt="arduino uno" src="https://github.com/user-attachments/assets/d37c0b82-4895-4991-84cf-72309e64826c" /> width="30%" alt="Arduino Uno">
   
   <!-- 2. Arduino Nano Fotoğraf Linki -->
   <img src="<img width="554" height="554" alt="arduino nano" src="https://github.com/user-attachments/assets/ea662528-2604-4175-9ef3-ed51a1c98719" />" width="22%" alt="Arduino Nano">
